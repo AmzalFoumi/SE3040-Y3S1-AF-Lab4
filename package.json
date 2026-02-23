@@ -1,0 +1,20 @@
+{
+  "name": "se3040-y3s1-af-lab4",
+  "version": "1.0.0",
+  "description": "(This is for the purposes of a lab activity submission as part of the return to basics lab activities the Applications Frameworks module)",
+  "homepage": "https://github.com/AmzalFoumi/SE3040-Y3S1-AF-Lab4#readme",
+  "bugs": {
+    "url": "https://github.com/AmzalFoumi/SE3040-Y3S1-AF-Lab4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmzalFoumi/SE3040-Y3S1-AF-Lab4.git"
+  },
+  "license": "ISC",
+  "author": "Amzal Foumi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
